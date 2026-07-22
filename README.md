@@ -49,12 +49,12 @@ Skill · 斗图 · 人设 · 模型性价比
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yyh-001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yyh-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=5" alt="langs" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yyh-001&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yyh-001&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&langs_count=5" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyh-001&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyh-001&theme=default&hide_border=true&background=FFFFFF" alt="streak" />
 </p>
 
 <p align="center">
