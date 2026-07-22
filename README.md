@@ -58,7 +58,10 @@ Skill · 斗图 · 人设 · 模型性价比
 </p>
 
 <p align="center">
-  <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/yyh-001/yyh-001/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyh-001/yyh-001/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/yyh-001/yyh-001/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
