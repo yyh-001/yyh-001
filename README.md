@@ -79,3 +79,5 @@ Skill · 斗图 · 人设 · 模型性价比
 </div>
 
 <!-- achievement: yolo -->
+
+<!-- achievement: pair-extraordinaire -->
