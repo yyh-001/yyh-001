@@ -3,6 +3,10 @@
   https://github.com/yyh-001
 -->
 
+<p align="center">
+  <img src="./assets/banner.png" alt="yyh — Agent Skills & LLM tools" width="100%" />
+</p>
+
 <div align="center">
 
 # Hey, I'm **yyh** 👋
@@ -136,6 +140,34 @@ curl -fsSL .../install.sh | bash
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=yyh-001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophy" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyh-001/yyh-001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyh-001/yyh-001/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yyh-001/yyh-001/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyh-001/yyh-001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyh-001/yyh-001/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yyh-001/yyh-001/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
