@@ -137,10 +137,6 @@ curl -fsSL .../install.sh | bash
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyh-001&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yyh-001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophy" />
-
 </div>
 
 ---
